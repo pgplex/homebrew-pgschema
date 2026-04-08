@@ -3,7 +3,7 @@ class Pgschema < Formula
   homepage "https://www.pgschema.com"
   url "https://github.com/pgplex/pgschema/releases/download/v1.9.0/pgschema-1.9.0-darwin-arm64"
   version "1.9.0"
-  sha256 "ff20c352aedd7df08778dda859b9e79c34a9b90ad5e65014ff3dedab6e4ef5b1"
+  sha256 "8c8801ed15a8a74550d44626b93eec0bcfb72d4e98e8608f5749a0c3597d75a3"
   license "Apache-2.0"
 
   def install
