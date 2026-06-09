@@ -1,9 +1,9 @@
 class Pgschema < Formula
   desc "Terraform-style, declarative schema migration for Postgres"
   homepage "https://www.pgschema.com"
-  url "https://github.com/pgplex/pgschema/releases/download/v1.10.0/pgschema-1.10.0-darwin-arm64"
-  version "1.10.0"
-  sha256 "35de42473e143736177d8df9ff831e6d44b5e6f46c34a3ba7ca3fb6975c1a028"
+  url "https://github.com/pgplex/pgschema/releases/download/v1.11.0/pgschema-1.11.0-darwin-arm64"
+  version "1.11.0"
+  sha256 "719502331a9b8f6695130c9236a3562fd7d5b39e6a316e938b6871903cf4006d"
   license "Apache-2.0"
 
   def install
